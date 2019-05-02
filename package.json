@@ -1,0 +1,17 @@
+{
+  "name": "test-driven-katas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha wrap.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  },
+  "dependencies": {
+  },
+  "description": ""
+}
